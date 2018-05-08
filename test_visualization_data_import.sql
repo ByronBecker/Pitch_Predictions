@@ -37,3 +37,4 @@ select retro_game_id, inning, bat_home_id, pa_ball_ct, pa_strike_ct, outs_ct, st
 
 from pitch_table_fx_test 
 where regseason_fl = "T" and playoffs_fl = "F" and pz != 0 and y0 = 50;
+
