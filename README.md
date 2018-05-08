@@ -1,7 +1,7 @@
 > # Pitch_Predictions
 ### Sabermetrics Final Project
 
-See the App at http://byronbecker.github.io/!!!
+See the App at http://byronbecker.github.io/, and see a video explanation of it at https://youtu.be/XTQ-uAZahXk
 
 ### Goal
 > To be able to predict if pitches will be called a ball, called a strike, are swinging strikes, or are hit in better than a 1/4 chance (baseline) by using pitch f/x data. In getting to the prediction, I'm most interested in which factors impact swinging strikes.
